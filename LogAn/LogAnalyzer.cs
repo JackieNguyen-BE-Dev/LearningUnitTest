@@ -12,8 +12,8 @@ namespace LogAn
         {
             /*if (!File.Exists(fileName))
                 throw new Exception("No log file with that name exists");
-            if (string.IsNullOrEmpty(fileName))
-                throw new ArgumentException("Filename must to be provided");*/
+            if (string.IsNullOrEmpty(fileName))*/
+                throw new ArgumentException("Filename must to be provided");
             if (!fileName.ToLower().EndsWith(".slf"))
                 return false;
             return true;

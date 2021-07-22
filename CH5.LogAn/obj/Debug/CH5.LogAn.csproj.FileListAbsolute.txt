@@ -1,0 +1,6 @@
+D:\APS.NET Core 3 File\UnitTestProject\UnitTestSolution\LearningUnitTestSolution\CH5.LogAn\bin\Debug\CH5.LogAn.dll
+D:\APS.NET Core 3 File\UnitTestProject\UnitTestSolution\LearningUnitTestSolution\CH5.LogAn\bin\Debug\CH5.LogAn.pdb
+D:\APS.NET Core 3 File\UnitTestProject\UnitTestSolution\LearningUnitTestSolution\CH5.LogAn\obj\Debug\CH5.LogAn.csproj.CoreCompileInputs.cache
+D:\APS.NET Core 3 File\UnitTestProject\UnitTestSolution\LearningUnitTestSolution\CH5.LogAn\obj\Debug\CH5.LogAn.dll
+D:\APS.NET Core 3 File\UnitTestProject\UnitTestSolution\LearningUnitTestSolution\CH5.LogAn\obj\Debug\CH5.LogAn.pdb
+D:\APS.NET Core 3 File\UnitTestProject\UnitTestSolution\LearningUnitTestSolution\CH5.LogAn\obj\Debug\CH5.LogAn.csprojAssemblyReference.cache
